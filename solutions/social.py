@@ -64,6 +64,10 @@ for tweet in tweets:
         print(tweet["user"]["screen_name"])
 
     #
+
+    fjfj
+    fjfjf
+    fjfjf
     # QUESTION C
     #
     # Of all the tweets which include the phrase "@sandwhoa" in their full text,
